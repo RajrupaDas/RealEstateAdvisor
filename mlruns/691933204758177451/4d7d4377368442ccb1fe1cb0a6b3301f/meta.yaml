@@ -1,0 +1,14 @@
+artifact_uri: file:///home/quantumvortex/proj/mlruns/691933204758177451/4d7d4377368442ccb1fe1cb0a6b3301f/artifacts
+end_time: 1765526130046
+entry_point_name: ''
+experiment_id: '691933204758177451'
+lifecycle_stage: active
+run_id: 4d7d4377368442ccb1fe1cb0a6b3301f
+run_name: LinearRegression_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765526127846
+status: 3
+tags: []
+user_id: quantumvortex

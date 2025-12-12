@@ -1,0 +1,10 @@
+artifact_location: file:///home/quantumvortex/proj/mlruns/691933204758177451/models/m-91da8399a0e9436e97d6273d7aab7e7b/artifacts
+creation_timestamp: 1765527072689
+experiment_id: '691933204758177451'
+last_updated_timestamp: 1765527074475
+model_id: m-91da8399a0e9436e97d6273d7aab7e7b
+model_type: null
+name: model
+source_run_id: 0aeca988ec434776800c801e9aae155b
+status: 2
+status_message: null

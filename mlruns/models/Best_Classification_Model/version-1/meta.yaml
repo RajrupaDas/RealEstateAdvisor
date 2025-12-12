@@ -1,0 +1,15 @@
+creation_timestamp: 1765526127799
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1765526127799
+model_id: m-dd8922d0669e414ba21a3e371f542528
+name: Best_Classification_Model
+run_id: 205c030feae749f3ad61bb956d9207b8
+run_link: null
+source: models:/m-dd8922d0669e414ba21a3e371f542528
+status: READY
+status_message: null
+storage_location: file:///home/quantumvortex/proj/mlruns/691933204758177451/models/m-dd8922d0669e414ba21a3e371f542528/artifacts
+user_id: null
+version: 1

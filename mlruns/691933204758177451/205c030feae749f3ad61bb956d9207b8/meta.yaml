@@ -1,0 +1,14 @@
+artifact_uri: file:///home/quantumvortex/proj/mlruns/691933204758177451/205c030feae749f3ad61bb956d9207b8/artifacts
+end_time: 1765526127804
+entry_point_name: ''
+experiment_id: '691933204758177451'
+lifecycle_stage: active
+run_id: 205c030feae749f3ad61bb956d9207b8
+run_name: LogisticRegression_Classification
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765526123318
+status: 3
+tags: []
+user_id: quantumvortex

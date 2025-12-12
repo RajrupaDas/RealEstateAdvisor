@@ -1,0 +1,14 @@
+artifact_uri: file:///home/quantumvortex/proj/mlruns/691933204758177451/a18cd5475e434c208d448e4fa3294c15/artifacts
+end_time: 1765527071816
+entry_point_name: ''
+experiment_id: '691933204758177451'
+lifecycle_stage: active
+run_id: a18cd5475e434c208d448e4fa3294c15
+run_name: XGBoostClassifier_Classification_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765527068077
+status: 3
+tags: []
+user_id: quantumvortex

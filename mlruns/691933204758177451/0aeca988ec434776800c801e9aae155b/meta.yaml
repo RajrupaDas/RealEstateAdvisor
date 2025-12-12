@@ -1,0 +1,14 @@
+artifact_uri: file:///home/quantumvortex/proj/mlruns/691933204758177451/0aeca988ec434776800c801e9aae155b/artifacts
+end_time: 1765527074485
+entry_point_name: ''
+experiment_id: '691933204758177451'
+lifecycle_stage: active
+run_id: 0aeca988ec434776800c801e9aae155b
+run_name: XGBoostRegressor_Regression_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765527071861
+status: 3
+tags: []
+user_id: quantumvortex

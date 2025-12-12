@@ -1,0 +1,15 @@
+creation_timestamp: 1765527074478
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1765527074478
+model_id: m-91da8399a0e9436e97d6273d7aab7e7b
+name: Best_Regression_Model
+run_id: 0aeca988ec434776800c801e9aae155b
+run_link: null
+source: models:/m-91da8399a0e9436e97d6273d7aab7e7b
+status: READY
+status_message: null
+storage_location: file:///home/quantumvortex/proj/mlruns/691933204758177451/models/m-91da8399a0e9436e97d6273d7aab7e7b/artifacts
+user_id: null
+version: 2
